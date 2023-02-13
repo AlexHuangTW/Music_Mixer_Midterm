@@ -1,10 +1,10 @@
-# Project Name
+# DJ MARSHMELLO
 
-TODO: Write a project description
+TODO:EDM FESTIVAL BY AWESOME DJ MARSHMALLOW, HOPEING YOU GUYS HAVE WOUNDERFUL NIGHT, PUT YOUR HANDS UP!
 
 ## Installation
 
-TODO: Describe the installation process
+TODO: Describe the installation process: WE CREATED ICON AND VISUAL IN ADOBE ILLUSTRATOR. CREATED MUSIC CONTENT IN CAKEWALK.
 
 ## Usage
 
@@ -24,8 +24,8 @@ TODO: Write history
 
 ## Credits
 
-TODO: Write credits
+TODO: SHIH-S_HUANG ETHAN JUTILA DEVIANO DAMES
 
 ## License
 
-TODO: Write license
+TODO: MIT license
